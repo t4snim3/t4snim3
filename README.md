@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm tasnime el rhaiti</h1>
 <h3 align="center">A passionate frontend developer from Morroco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t4snim3&label=Profile%20views&color=0e75b6&style=flat" alt="t4snim3" /> </p>
+<p align="left"> <img src="https://cdn.britannica.com/36/234736-050-4AC5B6D5/Scottish-fold-cat.jpg" alt="t4snim3" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=t4snim3" alt="t4snim3" /></a> </p>
 
